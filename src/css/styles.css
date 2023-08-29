@@ -25,8 +25,7 @@
 img {
   display: block;
   max-width: 100%;
-  border: 2px solid #0d161b;
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .cat-info {
